@@ -12,4 +12,4 @@ function RandomPokemon() {
     );
 }
 
-export default RandomPokemon
+export default RandomPokemon;
