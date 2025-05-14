@@ -1,5 +1,5 @@
-import './App.css'
-import RandomPokemon from './RandomPokemon.jsx'
+import './App.css';
+import RandomPokemon from './RandomPokemon.jsx';
 
 function App() {
     return (
