@@ -1,6 +1,6 @@
 # Pokémon Cards
 
-This repository contains a simple React application for displaying random Pokémon cards.
+This repository contains the source code of a simple React application for displaying random Pokémon cards.
 
 ## Screenshots
 
